@@ -2,6 +2,6 @@ language: python
 install:
   - pip install tox
   - pip install coveralls
-script: tox
+script: tox -c resources/lib/tox.ini
 after_success:
   coveralls
