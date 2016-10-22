@@ -18,7 +18,7 @@
     <source>https://github.com/ErwinJunge/plugin.video.foxsportsnl</source>
     <email>erwin@junge.nl</email>
     <assets>
-      <icon>icon.png</icon>
+      <icon>resources/icon.png</icon>
     </assets>
     <summary>FOX Sports NL</summary>
     <description lang="en">FOX Sports NL videos (no support for live broadcasts)</description>
